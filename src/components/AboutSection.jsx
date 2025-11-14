@@ -54,7 +54,7 @@ export default function AboutSection() {
 
     return (
         <section className="relative py-28 overflow-hidden">
-            <Helmet>
+            {/* <Helmet>
                 <title>About Us | Karma Enterprise | Cybersecurity & IT Experts</title>
 
                 <meta name="description" content="Learn more about Karma Enterprise — your trusted partner for cybersecurity, digital transformation, cloud security and IT solutions." />
@@ -67,7 +67,7 @@ export default function AboutSection() {
                 <meta property="og:description" content="Cybersecurity & IT experts delivering secure, scalable solutions." />
                 <meta property="og:url" content="https://www.karmaenterprise.co/about" />
                 <meta property="og:image" content="/logo.png" />
-            </Helmet>
+            </Helmet> */}
 
             {/* Floating Particles */}
             <canvas

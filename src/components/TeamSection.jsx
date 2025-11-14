@@ -66,7 +66,7 @@ export default function TeamSection() {
 
     return (
         <section className="relative py-28 overflow-hidden">
-            <Helmet>
+            {/* <Helmet>
                 <title>Our Team | Karma Enterprise</title>
 
                 <meta name="description" content="Meet the founders of Karma Enterprise — Dhaval Vasava (Founder) and Nilesh Katariya (Co-Founder)." />
@@ -78,7 +78,7 @@ export default function TeamSection() {
                 <meta property="og:title" content="Our Leadership Team | Karma Enterprise" />
                 <meta property="og:description" content="Meet the key leadership members driving cybersecurity & IT innovation." />
                 <meta property="og:image" content="/logo.png" />
-            </Helmet>
+            </Helmet> */}
 
             {/* Floating Particles */}
             <canvas

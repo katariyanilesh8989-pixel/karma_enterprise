@@ -138,7 +138,7 @@ export default function KarmaEnterpriseUpgraded() {
 
           {/* LOGO + BRAND */}
           <div className="flex items-center gap-3 select-none">
-            <img src="/logo.png" alt="Logo" className="w-10 h-10 object-contain" />
+            <img src="/logo.png" alt="Karma Enterprise" className="w-10 h-10 object-contain" />
             <Link
               to="/"
               onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}

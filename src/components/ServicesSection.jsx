@@ -98,7 +98,7 @@ export default function ServicesSection() {
         <section id="services" className="relative py-28 overflow-hidden">
 
             {/* ——— PAGE TITLE / TAB TITLE ——— */}
-            <Helmet>
+            {/* <Helmet>
                 <title>Services | VAPT, Security Audits, Cloud Security, IT Infrastructure</title>
 
                 <meta name="description" content="Explore our services including VAPT, security audits, cloud security, DevSecOps, IT infra, ERP and custom development." />
@@ -113,7 +113,7 @@ export default function ServicesSection() {
                 <meta property="og:image" content="/logo.png" />
 
                 <meta name="twitter:card" content="summary_large_image" />
-            </Helmet>
+            </Helmet> */}
 
 
             {/* ——— PARTICLES ——— */}
